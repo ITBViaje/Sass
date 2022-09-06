@@ -1,0 +1,14 @@
+footer{
+    p{
+        background-color: coral;
+    }
+    &:hover{
+        color:#ccb0df;
+    }
+    a{
+        &:link{color: chocolate;}
+        &:visited{
+            color:rgb(245, 44, 124);
+        }
+    }
+}

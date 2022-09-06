@@ -1,0 +1,15 @@
+@import url(_variables.scss);
+@import url(_footer.scss);
+@mixin color($uno:blue) {
+    
+}
+h1{
+    color:$colorTexto;
+}
+p{
+    background-color: chartreuse;
+}
+h2{
+    background-color: $colorFondo;
+}
+/* Estilos anidados: sobreescribe el valor predeterminado*/

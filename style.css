@@ -1,0 +1,16 @@
+h1 {
+  color: #19b404;
+}
+
+p {
+  background-color: chartreuse;
+}
+
+h2 {
+  background-color: #ccb0df;
+}
+
+/* Estilos anidados: sobreescribe el valor predeterminado*/
+footer p {
+  background-color: coral;
+}/*# sourceMappingURL=style.css.map */
